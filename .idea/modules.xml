@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/weeffe.iml" filepath="$PROJECT_DIR$/.idea/modules/weeffe.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/weeffe_main.iml" filepath="$PROJECT_DIR$/.idea/modules/weeffe_main.iml" group="weeffe" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weeffe_test.iml" filepath="$PROJECT_DIR$/.idea/modules/weeffe_test.iml" group="weeffe" />
     </modules>
   </component>
 </project>
